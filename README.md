@@ -4,7 +4,7 @@ Documentación de casos de triage, laboratorios de ciberseguridad y reportes de 
 
 ## Sobre mí
 
-Profesional de seguridad con experiencia en CRA/SOC retail (Securitas Seguridad España), certificado en CompTIA Security+ y SC-200. Actualmente cursando el Grado en Ingeniería Informática (UNIR) y preparando la certificación TryHackMe SAL1. Este repositorio documenta mi proceso de aprendizaje práctico hacia un rol de SOC Analyst L1.
+Soy Vigilante de Seguridad en Securitas Seguridad España, con 1 año y 1 mes de experiencia en CRA/SOC retail (En activo). Actualmente cursando el primer año del Grado en Ciberseguridad en UNIR, iniciado en marzo de 2026. Estoy preparandome las certificaciones CompTIA Security+ y TryHackMe SAL1, con el objetivo de obtener ambas antes de noviembre de 2026, como parte de mi transición hacia un rol de SOC Analyst L1. Este repositorio documenta mi proceso de aprendizaje práctico hacia ese objetivo.
 
 ## Contenido
 
