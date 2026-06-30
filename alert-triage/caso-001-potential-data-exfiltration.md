@@ -1,6 +1,6 @@
 # Caso 001 — Potential Data Exfiltration
 
-**Fecha:** Marzo 2025 | **Severidad:** Critical | **Herramienta:** TryHackMe SOC Simulator
+**Fecha:** Junio 2026 | **Severidad:** Critical | **Herramienta:** TryHackMe SOC Simulator
 **Veredicto:** False Positive
 
 ## Resumen
